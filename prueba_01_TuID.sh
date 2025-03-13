@@ -1,6 +1,4 @@
 #!/bin/bash
-
 clear
-nombre ="Sergio"
-echo "Hola $nombre"
+echo "Soy el script 01"
 exit 0
