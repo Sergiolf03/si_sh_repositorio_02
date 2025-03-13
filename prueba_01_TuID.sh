@@ -1,3 +1,6 @@
 #!/bin/bash
+
 clear
-exit0
+nombre ="Sergio"
+echo "Hola $nombre"
+exit 0
